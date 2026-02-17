@@ -206,5 +206,3 @@ Potential improvements:
 - Authenticated key distribution
 - Side-channel attack prevention
 - Formal security audits
-
-**Never roll your own crypto for production use!**
